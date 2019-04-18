@@ -84,6 +84,10 @@ body, html{
   text-align: center;
 }
 
+.nav-item {
+  text-align: center;
+}
+
 #teamphoto {
   max-width: 60%;
   max-height: 60%;
