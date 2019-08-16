@@ -138,6 +138,15 @@ body, html{
   color:black;
 }
 
-.description, .text-uppercase{
+.description{
   color: black;
+  font-weight: 500;
+}
+
+.text-uppercase {
+  color: black;
+}
+
+.list-inline-item {
+  color: lightgray;
 }
